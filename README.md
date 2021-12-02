@@ -1,4 +1,4 @@
-# Juan Fernades
+# Juan Fernandes
 ## Olá! Seja bem-vindo ao meu perfil
 
 ### Sobre mim
