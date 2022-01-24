@@ -4,7 +4,6 @@
 ### Sobre mim
 - Tenho 20 anos, sou de Curitiba-PR, gosto de tecnologia, tenho uma cachorrinha chamada Jujuba e gosto de pizza.
 - Também sou graduando em Análise e desenvolvimento de sistemas na UFPR.
-- Estou buscando um estágio onde eu tenha possibilidade de me desenvolver na área de desenvolvimento.
 
 ### Contato 
 <div>
