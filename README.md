@@ -2,7 +2,7 @@
 ## Olá! Seja bem-vindo ao meu perfil
 
 ### Sobre mim
-- Tenho 20 anos, sou de Curitiba-PR, gosto de tecnologia, tenho uma cachorrinha chamada Jujuba e gosto de pizza.
+- Tenho 21 anos, sou de Curitiba-PR, gosto de tecnologia, tenho uma cachorrinha chamada Jujuba e gosto de pizza.
 - Também sou graduando em Análise e desenvolvimento de sistemas na UFPR.
 - Atualmente estou estagiando em desenvolvimento ERP.
 - Tenho interesse no desenvolvimento Back-end.
