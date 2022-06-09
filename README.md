@@ -14,11 +14,8 @@
 </div>
 
 ### Estou aprendendo
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzRLMRkv5sllfU0dMU-opWWcqw-POvgqmP7CULzQvROcB_eNVoGGIxBnxxJPl3YdaYc_0&usqp=CAU" width="40" height="40" /> <img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="40" height="40"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF83a41jAvhznGZRBCIdWtm3SPrY5f4IgXEQ&usqp=CAU" width="40" height="40" />
    
 ### Meu GitHub   
 <div>
