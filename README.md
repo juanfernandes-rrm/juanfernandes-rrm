@@ -20,7 +20,7 @@ Tenho focado meus estudos para o ambiente Java, no momento estou estudando muito
 - Spring Framework
 - JPA
 - Design Patterns
-- Teste automatizados
+- Testes automatizados
    
 ## Meu GitHub   
 <div>
