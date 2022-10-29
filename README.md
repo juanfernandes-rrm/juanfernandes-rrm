@@ -17,8 +17,10 @@ Você pode entrar em contato comigo pelos seguintes meios:
 ## Estou aprendendo
 Tenho focado meus estudos para o ambiente Java, no momento estou estudando muito sobre Java Web, meu objetivo é aprender a desenvolver com o framework Spring.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzRLMRkv5sllfU0dMU-opWWcqw-POvgqmP7CULzQvROcB_eNVoGGIxBnxxJPl3YdaYc_0&usqp=CAU" width="40" height="40" /> <img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="40" height="40"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF83a41jAvhznGZRBCIdWtm3SPrY5f4IgXEQ&usqp=CAU" width="40" height="40" />
+- Spring Framework
+- JPA
+- Design Patterns
+- Teste automatizados
    
 ## Meu GitHub   
 <div>
