@@ -15,10 +15,11 @@ Você pode entrar em contato comigo pelos seguintes meios:
 </div>
 
 ## Estou aprendendo
-Tenho focado meus estudos para o ambiente Java, no momento estou estudando muito sobre Java Web, meu objetivo é aprender a desenvolver com o framework Spring.
+Tenho focado meus estudos para o ambiente Java, no momento estou estudando muito sobre o framework Spring.
 
 - Java
-- JPA
+- Spring Data
+- Spring Boot
 - Spring Framework
 - Design Patterns
 - Testes automatizados
