@@ -2,7 +2,7 @@
 Bem-vindo ao meu Git Hub! Aqui é onde guardo alguns dos meus códigos. Se tiver interrese, dê uma olhada.
 
 ## Sobre mim
-Meu nome é Juan Fernandes, tenho 21 anos, sou de Curitiba-PR, tenho uma cachorrinha chamada Jujuba e gosto de pizza.
+Meu nome é Juan Fernandes, tenho 22 anos, sou de Curitiba-PR, tenho uma cachorrinha chamada Jujuba e gosto de pizza.
 
 Sou graduando em Análise e Desenvolvimento de Sistemas na UFPR, e também sou Estagiário de Desenvolvimento Back-end.
 Meu foco nos estudos é no Back-End, sou entusiasmado por Java (a maioria do código por aqui), mas também tenho conhecimento em SQL, HTML, CSS, Javascript, PHP, C e Python.
