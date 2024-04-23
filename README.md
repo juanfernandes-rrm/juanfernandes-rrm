@@ -18,10 +18,11 @@ Você pode entrar em contato comigo pelos seguintes meios:
 Tenho focado meus estudos no ambiente Java, no momento estou estudando muito sobre o framework Spring.
 
 - Java
-- Spring Data
-- Spring Boot
 - Spring Framework
+- SOLID
 - Design Patterns
+- Microsserviços
+- Mensageria
 - Testes automatizados
    
 ## Meu GitHub   
