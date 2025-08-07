@@ -2,10 +2,10 @@
 Bem-vindo ao meu Git Hub! Aqui é onde guardo alguns dos meus códigos. Se tiver interrese, dê uma olhada.
 
 ## Sobre mim
-Meu nome é Juan Fernandes, tenho 23 anos, sou de Curitiba-PR, tenho uma cachorrinha chamada Jujuba e gosto de pizza.
+Meu nome é Juan Fernandes, tenho 24 anos, sou de Curitiba-PR, tenho uma cachorrinha chamada Jujuba e gosto de pizza.
 
-Sou graduando em Análise e Desenvolvimento de Sistemas na UFPR, e também sou Desenvolvimento Back-end Java/Spring.
-Meu foco de estudos é o ecossistema Java/Spring.
+Sou formado em Análise e Desenvolvimento de Sistemas pela UFPR, e atuo como desenvolvedor Back-end Java/Spring.
+Foco meus estudos em Java/Spring alinhado com tópicos de Arquitetura de Software.
 
 ## Contato 
 Você pode entrar em contato comigo pelos seguintes meios:
@@ -25,6 +25,7 @@ Tenho focado meus estudos no ambiente Java/Spring.
 - Microsserviços
 - Mensageria
 - Testes automatizados
+- DDD
    
 ## Meu GitHub   
 <div>
